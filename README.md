@@ -1,6 +1,9 @@
+It looks like you're setting up a new repository on GitHub titled "COVERALLS.io." Since you've chosen to initialize it with a README file, here's a markdown version you can use. This README will be included in your repository upon creation.
+
+```markdown
 # COVERALLS.io
 
-[![Coverage Status](https://coveralls.io/repos/github/YOUR_GITHUB_USERNAME/COVERALLS.io/badge.svg?branch=main)](https://coveralls.io/github/YOUR_GITHUB_USERNAME/COVERALLS.io?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/TMHSDigital/COVERALLS.io/badge.svg?branch=main)](https://coveralls.io/github/TMHSDigital/COVERALLS.io?branch=main)
 
 ## Overview
 
@@ -28,7 +31,7 @@ COVERALLS.io is a project designed to demonstrate the integration of Coveralls w
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/COVERALLS.io.git
+git clone https://github.com/TMHSDigital/COVERALLS.io.git
 cd COVERALLS.io
 ```
 
@@ -133,7 +136,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Appache 2.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Additional Resources
 
@@ -141,3 +144,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Coveralls GitHub Repository](https://github.com/lemurheavy/coveralls-public)
 
 ---
+
+*Note: Replace `TMHSDigital` with your actual GitHub username if different.*
+```
+
+You can copy and paste this into the README file of your new repository. Adjust any paths or commands based on your project's specific needs. Let me know if you need any further customization!
