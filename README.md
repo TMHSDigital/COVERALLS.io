@@ -1,6 +1,3 @@
-It looks like you're setting up a new repository on GitHub titled "COVERALLS.io." Since you've chosen to initialize it with a README file, here's a markdown version you can use. This README will be included in your repository upon creation.
-
-```markdown
 # COVERALLS.io
 
 [![Coverage Status](https://coveralls.io/repos/github/TMHSDigital/COVERALLS.io/badge.svg?branch=main)](https://coveralls.io/github/TMHSDigital/COVERALLS.io?branch=main)
