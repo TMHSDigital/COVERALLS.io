@@ -1,5 +1,20 @@
 # COVERALLS.io
 
+## Stats
+
+![GitHub last commit](https://img.shields.io/github/last-commit/TMHSDigital/COVERALLS.io)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TMHSDigital/COVERALLS.io)
+![GitHub contributors](https://img.shields.io/github/contributors/TMHSDigital/COVERALLS.io)
+![GitHub issues](https://img.shields.io/github/issues/TMHSDigital/COVERALLS.io)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/TMHSDigital/COVERALLS.io)
+![GitHub forks](https://img.shields.io/github/forks/TMHSDigital/COVERALLS.io)
+![GitHub Repo stars](https://img.shields.io/github/stars/TMHSDigital/COVERALLS.io)
+![GitHub watchers](https://img.shields.io/github/watchers/TMHSDigital/COVERALLS.io)
+![GitHub repo size](https://img.shields.io/github/repo-size/TMHSDigital/COVERALLS.io)
+![GitHub language count](https://img.shields.io/github/languages/count/TMHSDigital/COVERALLS.io)
+![GitHub top language](https://img.shields.io/github/languages/top/TMHSDigital/COVERALLS.io)
+![GitHub license](https://img.shields.io/github/license/TMHSDigital/COVERALLS.io)
+
 [![Coverage Status](https://coveralls.io/repos/github/TMHSDigital/COVERALLS.io/badge.svg?branch=main)](https://coveralls.io/github/TMHSDigital/COVERALLS.io?branch=main)
 
 ## Overview
@@ -133,7 +148,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the Appache 2.0 License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Additional Resources
 
@@ -141,8 +156,3 @@ This project is licensed under the Appache 2.0 License. See the [LICENSE](LICENS
 - [Coveralls GitHub Repository](https://github.com/lemurheavy/coveralls-public)
 
 ---
-
-*Note: Replace `TMHSDigital` with your actual GitHub username if different.*
-```
-
-You can copy and paste this into the README file of your new repository. Adjust any paths or commands based on your project's specific needs. Let me know if you need any further customization!
